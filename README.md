@@ -84,5 +84,6 @@ Ten dedicated record modules covering every aspect of household administration:
 - **Client-Side Vault Encryption:** Sensitive credentials never leave the device in plain text; the server stores only encrypted payloads.
 - **Fail-Closed Entitlements:** Server-enforced plan boundaries prevent unauthorized record creation and enforce combined saved-item limits across all household modules.
 
-- ##Proudly Made In Pakistan
-- ##by Umair Bin Hassan aka Umair Khan Wattoo
+- 📄 License & Attribution
+Proprietary — All rights reserved © OmniRecall.
+Proudly created by Umair Bin Hassan (aka Umair Khan Wattoo) in Pakistan.
