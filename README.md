@@ -83,5 +83,6 @@ Ten dedicated record modules covering every aspect of household administration:
 - **Row Level Security (RLS):** Every database query is strictly scoped to the authenticated user's ID at the database engine level.
 - **Client-Side Vault Encryption:** Sensitive credentials never leave the device in plain text; the server stores only encrypted payloads.
 - **Fail-Closed Entitlements:** Server-enforced plan boundaries prevent unauthorized record creation and enforce combined saved-item limits across all household modules.
-# Start local development server
-npm run dev
+
+- ##Proudly Made In Pakistan
+- ##by Umair Bin Hassan aka Umair Khan Wattoo
